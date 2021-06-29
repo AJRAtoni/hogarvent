@@ -1,16 +1,17 @@
-                 .masthead {
-                 text-align: center;
-                 height: 1000px;
-                 margin-top: 40px;
-                 color: #fff;
-                 background-image: url("img/hogarventheader.jpg");
-                 background-size: cover;
-                 background-position: center;
-                 background-repeat: no-repeat;
-             }
-             
-             @media (min-width: 768px) {
-                 .masthead {
-                     padding-top: 17rem;
-                     padding-bottom: 12.5rem;
-                 }
+                                                                             .masthead {
+                                                                                 text-align: center;
+                                                                                 height: 650px;
+                                                                                 margin-top: 70px;
+                                                                                 color: #fff;
+                                                                                 background-image: url("img/hogarventheader.jpg");
+                                                                                 background-size: cover;
+                                                                                 background-position: center;
+                                                                                 background-repeat: no-repeat;
+                                                                             }
+                                                                             
+                                                                             @media (max-width: 821px) {
+                                                                                 .masthead {
+                                                                                     height: 350px;
+                                                                                     background-size: cover;
+                                                                                 }
+                                                                             }
