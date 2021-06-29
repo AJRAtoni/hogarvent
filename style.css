@@ -1,17 +1,16 @@
-                                                                .masthead {
-                                                                text-align: center;
-                                                                height: 650px;
-                                                                margin-top: 20px;
-                                                                color: #fff;
-                                                                background-image: url("img/hogarventheader.jpg");
-                                                                background-repeat: no-repeat;
-                                                                background-attachment: scroll;
-                                                                background-position: center top;
-                                                                background-size: cover;
-                                                            }
-                                                            
-                                                            @media (min-width: 768px) {
-                                                                .masthead {
-                                                                    padding-top: 17rem;
-                                                                    padding-bottom: 12.5rem;
-                                                                }
+                                                                            .masthead {
+                                                                            text-align: center;
+                                                                            height: 650px;
+                                                                            margin-top: 20px;
+                                                                            color: #fff;
+                                                                            background-image: url("img/hogarventheader.jpg");
+                                                                            background-size: auto;
+                                                                            background-position: center;
+                                                                            background-repeat: no-repeat;
+                                                                        }
+                                                                        
+                                                                        @media (min-width: 768px) {
+                                                                            .masthead {
+                                                                                padding-top: 17rem;
+                                                                                padding-bottom: 12.5rem;
+                                                                            }
